@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Nujud20/Nujud20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I’m Nujud, a software engineering student in Jeddah
+ ,I’m interested in software development, UI/UX Design and Front-End Development
+ ,I enjoy combining creativity with technology.
+ 
+⚡Skills:
+- Figma
+- Front-End Fundamentals
+- Java Programming
+- C language
+- Software Engineering Principles
+  
+ 📫 How to reach me: nujudnawaf20@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
